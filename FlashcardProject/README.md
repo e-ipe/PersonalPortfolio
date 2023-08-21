@@ -1,0 +1,1 @@
+Flashcard Project (HTML/CSS/Javascript) When my friend started taking French and told me she didn't want to use Quizlet (because of advertisements), I decided to take the matter into my own hands. I created my own flashcard simulator using HTML, CSS, and Javascript. Here is a demo: https://drive.google.com/file/d/1CjHeLePrv360mL0t2-61oeb73h7OY8Jg/view?usp=drive_link
