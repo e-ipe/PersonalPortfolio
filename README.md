@@ -8,7 +8,7 @@ I created a dice simulator that generates a random number, and then the correspo
 **Flashcard Project (HTML/CSS/Javascript)**
 When my friend started taking French and told me she didn't want to use Quizlet (because of advertisements), I decided to take the matter into my own hands. I created my own flashcard simulator using HTML, CSS, and Javascript. Here is a demo: https://drive.google.com/file/d/1CjHeLePrv360mL0t2-61oeb73h7OY8Jg/view?usp=drive_link
 
-**OSV (Arduino) **
+**OSV (Arduino)**
 OSV stands for over surface vehicle. This was a group project, and I was the team leader of 8 engineering students. I was in charge of all logistics, but I was also in charge of making the vehicle move. Here is more information and demos: https://docs.google.com/document/d/1JhX33nWiqcQbecX3PvuDHr6WYWVQ1Z5Pwkas-2X24T0/edit?usp=drive_link 
 
 **Personal Project Website (HTML/CSS)**
