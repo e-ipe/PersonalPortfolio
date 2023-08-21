@@ -1,1 +1,1 @@
-
+Dice Simulator (Arduino) I created a dice simulator that generates a random number, and then the corresponding number of LEDs light up on the arduino. Here is a demo: https://drive.google.com/file/d/17y_vVaZjICC0FkQ0hzfGV7O9OFkB31Cj/view?usp=drive_link
