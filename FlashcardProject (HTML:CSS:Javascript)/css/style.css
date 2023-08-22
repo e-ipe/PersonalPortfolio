@@ -1,0 +1,46 @@
+/* This is for the title class */
+.title { 
+    /* . is how you target a class */
+    text-align: center; /* Centers the text */
+    font-family: 'Heebo', sans-serif; /* Changes the font */
+}
+
+/* This is for the term class */
+.term {
+    border: solid 5px rgb(228, 132, 132); /* Puts border around the text */
+    border-radius: 15px; /* rounds the edges */
+    text-align: center; /* Centers the text */
+    font-family: 'Heebo', sans-serif; /* Changes the font */
+    width: 45%; /* makes the box smaller, doing a percentage is better than fixed pixel length */
+    margin: auto; /* Centers */
+    margin-top: 100px; /* Adds space above the boxes; padding is space within the box */
+
+}
+
+/* This is for the definition class */
+.definition {
+    border: solid 5px rgb(111, 111, 229); /* Puts border around the text */
+    border-radius: 15px; /* rounds the edges */
+    text-align: center; /* Centers the text */
+    font-family: 'Heebo', sans-serif; /* Changes the font */
+    width: 45%; /* makes the box smaller */
+    margin: auto; /* Centers */
+    margin-top: 100px; /* Adds space above the boxes; padding is space within the box */
+    display: none; /* Does not show definition! */
+}
+
+.button {
+    text-align: center; /* Centers and aligns */
+    margin-top: 100px;
+}
+
+button {
+    color: white; /* Text color */
+    background-color: rgb(107, 202, 172); /* Background color */
+    padding: 20px; /* Space within button */
+    border-radius: 15px; /* rounds the edges */
+}
+
+button:hover { /* Animations */
+    transform: scale(1.1); /* Makes it 1.1 times bigger when hovering over */
+}
