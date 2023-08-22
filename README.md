@@ -17,7 +17,7 @@ The Over Surface Vehicle (OSV) project, a collaborative endeavor involving eight
 **Password Generator (Python)** - 
 This is a compact Python software project designed to produce a unique password upon each program execution. The generated password is a randomly composed sequence, comprising precisely 16 characters. For a comprehensive demonstration of this functionality, please refer to the following showcase: https://drive.google.com/file/d/1ORXSnKVlq0zvWii-93OrCZokXDf083Vh/view?usp=sharing
 
-**Personal Project Website (HTML/CSS)** - 
+**Personal Portfolio Website (HTML/CSS)** - 
 As part of my digital portfolio, I have crafted an aesthetically pleasing website using HTML and CSS. This platform serves as an elegant showcase for my various projects and provides insight into my background. To explore this personal website, kindly refer to the following demonstration: https://drive.google.com/file/d/1gXAJtsYVRFESXsED41J8xQKuNpoJdxO8/view?usp=drive_link
 
 **Photo Album App (Swift)** - 
