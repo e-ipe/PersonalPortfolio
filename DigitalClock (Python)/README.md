@@ -1,0 +1,1 @@
+Digital Clock (Python) This project constitutes a Python-based mini-application strategically leveraging external libraries to streamline code length. Its primary function involves presenting a real-time digital clock display. This is a demo of the program running: https://drive.google.com/file/d/1pjUAtSSbrweS6wtlt2uOSjvOt4WWN4J_/view?usp=sharing
